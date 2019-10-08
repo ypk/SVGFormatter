@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="57.698095%" y1="-5.02086682%" x2="85.3992879%" y2="114.27958%" id="linearGradient-1">
+            <stop stop-color="#4E60D3" offset="0%"></stop>
+            <stop stop-color="#913BAF" offset="14.8736013%"></stop>
+            <stop stop-color="#D52D88" offset="31.5836243%"></stop>
+            <stop stop-color="#D72E85" offset="49.3765337%"></stop>
+            <stop stop-color="#E6366D" offset="81.6509905%"></stop>
+            <stop stop-color="#F26D4F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.8515625,5.57132842e-15 C27.1875,5.57132842e-15 30,2.8125 30,7.1484375 L30,22.8515625 C30,27.1875 27.1875,30 22.8515625,30 L7.1484375,30 C2.8125,30 0,27.1875 0,22.8515625 L0,7.1484375 C0,2.8125 2.8125,5.57132842e-15 7.1484375,5.57132842e-15 L22.8515625,5.57132842e-15 Z" id="path-2"></path>
+        <radialGradient cx="52.7221771%" cy="67.4067586%" fx="52.7221771%" fy="67.4067586%" r="64.5047159%" gradientTransform="translate(0.527222,0.674068),rotate(15.557288),scale(1.000000,0.941692),translate(-0.527222,-0.674068)" id="radialGradient-4">
+            <stop stop-color="#FED980" offset="0%"></stop>
+            <stop stop-color="#FCAE49" offset="37.2276316%"></stop>
+            <stop stop-color="#F06745" offset="55.5546347%"></stop>
+            <stop stop-color="#E83D5C" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-5" cx="17.9667969" cy="6.1015625" r="1.40625"></circle>
+        <filter x="-106.7%" y="-106.7%" width="313.3%" height="313.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130632926 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="instagram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Instagram" transform="translate(1.000000, 1.000000)">
+            <path d="M22.8515625,5.57132842e-15 C27.1875,5.57132842e-15 30,2.8125 30,7.1484375 L30,22.8515625 C30,27.1875 27.1875,30 22.8515625,30 L7.1484375,30 C2.8125,30 0,27.1875 0,22.8515625 L0,7.1484375 C0,2.8125 2.8125,5.57132842e-15 7.1484375,5.57132842e-15 L22.8515625,5.57132842e-15 Z" id="Background" fill="url(#linearGradient-1)"></path>
+            <g id="Yellow-Flare">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M9.05273437,43.8867187 C20.7348513,43.8867187 30.2050781,34.4164919 30.2050781,22.734375 C30.2050781,11.0522581 20.7348513,1.58203125 9.05273437,1.58203125 C-2.6293825,1.58203125 -12.0996094,11.0522581 -12.0996094,22.734375 C-12.0996094,34.4164919 -2.6293825,43.8867187 9.05273437,43.8867187 Z" id="Oval-3" fill="url(#radialGradient-4)" mask="url(#mask-3)"></path>
+            </g>
+            <g id="Icon" transform="translate(2.980469, 3.097656)">
+                <path d="M3.02539062,7.33143083 L3.02539062,16.6490379 C3.02539062,19.0281595 4.95330213,20.9550781 7.33303825,20.9550781 L16.764618,20.9550781 C19.1426899,20.9550781 21.0722656,19.0265018 21.0722656,16.6490379 L21.0722656,7.33143083 C21.0722656,4.95230927 19.1443541,3.02539062 16.764618,3.02539062 L7.33303825,3.02539062 C4.95496636,3.02539062 3.02539062,4.9539669 3.02539062,7.33143083 Z M0.974609375,7.33143083 C0.974609375,3.82111378 3.82258893,0.974609375 7.33303825,0.974609375 L16.764618,0.974609375 C20.2767329,0.974609375 23.1230469,3.81945751 23.1230469,7.33143083 L23.1230469,16.6490379 C23.1230469,20.159355 20.2750673,23.0058594 16.764618,23.0058594 L7.33303825,23.0058594 C3.82092334,23.0058594 0.974609375,20.1610112 0.974609375,16.6490379 L0.974609375,7.33143083 Z" id="Camera-Frame" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M12.078125,17.9082031 C8.85826176,17.9082031 6.24804688,15.2979882 6.24804688,12.078125 C6.24804688,8.85826176 8.85826176,6.24804688 12.078125,6.24804688 C15.2979882,6.24804688 17.9082031,8.85826176 17.9082031,12.078125 C17.9082031,15.2979882 15.2979882,17.9082031 12.078125,17.9082031 Z M12.078125,15.8574219 C14.165373,15.8574219 15.8574219,14.165373 15.8574219,12.078125 C15.8574219,9.99087697 14.165373,8.29882812 12.078125,8.29882812 C9.99087697,8.29882812 8.29882812,9.99087697 8.29882812,12.078125 C8.29882812,14.165373 9.99087697,15.8574219 12.078125,15.8574219 Z" id="Oval-1" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Oval-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

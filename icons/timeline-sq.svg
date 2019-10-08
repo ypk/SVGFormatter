@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>timeline-sq</title>
+    <desc>Created with Sketch.</desc>
+    <g id="timeline-sq" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30.5043238,17.5 C30.7780782,17.5 31,17.7183545 31,18.001783 L31,21.5253801 C31,21.8025072 30.7757709,22.0271632 30.5043238,22.0271632 L1.49567625,22.0271632 C1.22192182,22.0271632 1,21.8088087 1,21.5253801 L1,18.001783 C1,17.7246559 1.2242291,17.5 1.49567625,17.5 L30.5043238,17.5 Z" id="Shape" fill="#00C389"></path>
+        <path d="M30.5043238,10 C30.7780782,10 31,10.2234691 31,10.4958341 L31,14.1373707 C31,14.4112123 30.7757709,14.6332048 30.5043238,14.6332048 L1.49567625,14.6332048 C1.22192182,14.6332048 1,14.4097357 1,14.1373707 L1,10.4958341 C1,10.2219925 1.2242291,10 1.49567625,10 L30.5043238,10 Z" id="Shape" fill="#72ADFE"></path>
+    </g>
+</svg>
